@@ -55,7 +55,7 @@ class App extends Component {
     return (
       <div className="app">
         <main>
-          <h2>Enter city name to see current wheater</h2>
+          <h2>Enter city name to see current weather</h2>
           <div className="search-box">
             <div className="main-wrapper">
               <input
